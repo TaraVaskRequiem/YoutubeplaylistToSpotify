@@ -17,3 +17,4 @@ This repository allows you too get a youtube playlist you have made ir have the 
 ## Disclaimer
 
 * This is a third-party modification for spotify and youtube.  It's important to use it responsibly and at your own risk.
+* i havent set up requirements.txt right so dont try and download the dependents from itjust download them manually for now :p
