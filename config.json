@@ -1,0 +1,7 @@
+{
+    "youtubeApiKey": "AIzaSyCI0t7JvGeP1ZMdl3ejlhi38IdYwjvVc4Y",
+    "spotifyClientId": "992491f70b714cc79f33211f626e3036",
+    "spotifyClientSecret": "a1ca8217448b4e1d9af5395f32ddb7d9",
+    "spotifyRedirectUri": "http://localhost:8888/callback"
+  }
+  
