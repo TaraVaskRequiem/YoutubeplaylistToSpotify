@@ -6,12 +6,12 @@ This repository allows you too get a youtube playlist you have made ir have the 
 <details open>
 <Summary>INSTALATION</Summary>
 <br>
-1. follow this tutorial to get your **[youtube api key](https://www.youtube.com/watch?v=2HRtQhj4HoQ&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY)** 
-2. to set up your spotify api goto **[spotify api](https://developer.spotify.com/dashboard)**
-3. sign in
-4. creat an app
-5. fill out all the info thats required(ie. name, description, etc)
-6. add this as the callback address http://localhost:8888/callback
+1. follow this tutorial to get your **[youtube api key](https://www.youtube.com/watch?<br />v=2HRtQhj4HoQ&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY)** 
+2. to set up your spotify api goto **[spotify api](https://developer.spotify.com/dashboard)**<br />
+3. sign in<br />
+4. creat an app<br />
+5. fill out all the info thats required(ie. name, description, etc)<br />
+6. add this as the callback address http://localhost:8888/callback<br />
 7. copy the client id and client secret too config.js
 </details>
 <details open>
