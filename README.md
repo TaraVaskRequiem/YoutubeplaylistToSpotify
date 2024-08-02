@@ -32,7 +32,7 @@ Error fetching YouTube playlist videos: {
     errors: [ [Object] ]
   }
 }
-```
+```js
 this means the youtube playlist is private and you need to public it or get the owner to public it.
 
 
