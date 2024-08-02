@@ -37,7 +37,7 @@ Error fetching YouTube playlist videos: {
   }
 }
 ```
-this means the youtube playlist is private and you need to public it or get the owner to public it.
+
 </details>
 
 
