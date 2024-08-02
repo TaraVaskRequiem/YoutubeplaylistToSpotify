@@ -18,3 +18,21 @@ This repository allows you too get a youtube playlist you have made ir have the 
 
 * This is a third-party modification for spotify and youtube.  It's important to use it responsibly and at your own risk.
 * i havent set up requirements.txt right so dont try and download the dependents from itjust download them manually for now :p
+
+
+##Common Error(s)
+
+if you recieve this error it means the youtube playlist is private and you need to public it or get the owner to public it.
+
+//#region Error
+Error fetching YouTube playlist videos: {
+  error: {
+    code: 404,
+    message: "The playlist identified with the request's <code>playlistId</code> parameter cannot be found.",
+    errors: [ [Object] ]
+  }
+}
+
+this means the youtube playlist is private and you need to public it or get the owner to public it.
+
+//#endregion
