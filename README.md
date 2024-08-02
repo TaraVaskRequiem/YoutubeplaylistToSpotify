@@ -24,7 +24,7 @@ This repository allows you too get a youtube playlist you have made ir have the 
 
 if you recieve this error it means the youtube playlist is private and you need to public it or get the owner to public it.
 
-```
+```js
 Error fetching YouTube playlist videos: {
   error: {
     code: 404,
@@ -32,7 +32,7 @@ Error fetching YouTube playlist videos: {
     errors: [ [Object] ]
   }
 }
-```js
+```
 this means the youtube playlist is private and you need to public it or get the owner to public it.
 
 
