@@ -2,12 +2,8 @@
 const express = require('express');
 const axios = require('axios');
 const querystring = require('querystring');
-
 const app = express();
 const port = 8888;
-
-
-
 const client_id = config.spotifyClientId; // Your client id
 const client_secret = config.spotifyClientSecret; // Your secret
 const redirect_uri = config.spotifyRedirectUri; // Your redirect uri
