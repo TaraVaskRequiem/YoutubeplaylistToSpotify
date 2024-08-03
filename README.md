@@ -4,7 +4,7 @@ This repository allows you too get a youtube playlist you have made ir have the 
 
 
 <details closed>
-<Summary>INSTALATION</Summary>
+<Summary>Installation</Summary>
 <br>
 
 1. follow this tutorial to get your [youtube api key](https://www.youtube.com/watch?v=2HRtQhj4HoQ&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY)<br /> 
