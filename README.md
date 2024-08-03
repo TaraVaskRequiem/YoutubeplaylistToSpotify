@@ -21,7 +21,8 @@ This repository allows you too get a youtube playlist you have made ir have the 
 
 7. copy the client id and client secret too config.js<br />
 
-8. to get your auth code cop and paste everything past <http://localhost:8888/callback?code=> into the command line
+8. to get your auth code cop and paste <br />
+everything past <http://localhost:8888/callback?code=> into the command line
 </details>
 <details closed>
 <Summary>Disclaimer</Summary>
